@@ -1,2 +1,2 @@
 # Advanced-Digital-Forensics-Honours
-self-learning topic related to Advanced Digital Forensics
+self-learning topic : The Silicon Sleuth: How AI is Redefining Advanced Digital Forensics in 2026
